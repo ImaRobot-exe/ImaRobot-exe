@@ -1,3 +1,2 @@
-# Hi this is my first github commit lol!!
+# Hi this is my first github commit
 # Tejas here
-## I'm short :D
